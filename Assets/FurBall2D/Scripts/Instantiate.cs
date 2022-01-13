@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public class Instantiation : MonoBehaviour {
+public class Instantiate : MonoBehaviour {
 
 	public GameObject gameObject = null;
 	// Use this for initialization

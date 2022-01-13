@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public class PlayerController : MonoBehaviour {
+public class PlayerCon : MonoBehaviour {
 	
 	public float maxSpeed = 6f;
 	public float jumpForce = 1000f;

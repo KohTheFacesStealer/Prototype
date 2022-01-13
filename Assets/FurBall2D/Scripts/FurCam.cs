@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public class CameraController : MonoBehaviour 
+public class FurCam : MonoBehaviour 
 {
 	public Transform Player;
 	public float m_speed = 0.1f;

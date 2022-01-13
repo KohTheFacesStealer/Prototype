@@ -2,7 +2,7 @@
 using System.Collections;
 
 
-public class HitVelDetection : MonoBehaviour {
+public class HitDetection : MonoBehaviour {
 	
 	// Use this for initialization
 	void Start(){

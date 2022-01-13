@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class BackgroundControl_0 : MonoBehaviour
+public class BackControl_0 : MonoBehaviour
 {
     [Header("BackgroundNum 0 -> 3")]
     public int backgroundNum;

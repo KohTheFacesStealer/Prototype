@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class ParallaxBackground_0 : MonoBehaviour
+public class ParallaxBack_0 : MonoBehaviour
 {
     public bool Camera_Move;
     public float Camera_MoveSpeed = 1.5f;

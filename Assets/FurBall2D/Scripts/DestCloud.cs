@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public class DestroyCloud : MonoBehaviour {
+public class DestCloud : MonoBehaviour {
 
 	// Use this for initialization
 	void Start(){
